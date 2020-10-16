@@ -3,7 +3,7 @@ Feature: Guess the word
   # The first example has two steps
   Scenario: Maker starts a game
     When the Maker starts a game
-    Then the Maker waits for a Breaker to join
+    Then the Maker waits for a Breaker to join the game.
 
   # The second example has three steps
   Scenario: Breaker joins a game
