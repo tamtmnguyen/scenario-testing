@@ -17,7 +17,7 @@ Feature: Guess the word
     When the Breaker ends the Maker's game
     Then the Breaker say with 5 characters
     
-  # The fourth example has three steps
+  # The fourth example has three steps. that's it.
   Scenario: Winner celerate a game
     Given the Maker has end a game with the word "ohyeah"
     When the Breaker ends the Maker's game
