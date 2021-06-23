@@ -6,4 +6,4 @@ Feature: SD-1 Feature
     Then Say hi
     Given 1st action
     When 1st action
-    Then Say goodbye
+    Then Say goodbyeeeeee
